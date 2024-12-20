@@ -1,0 +1,28 @@
+src/
+└── main/
+    ├── java/
+    │   └── com.mycompany.quiz_online1/
+    │       ├── Main.java
+    │       ├── singleton/
+    │       │   └── DatabaseConnection.java
+    │       ├── factory/
+    │       │   └── FrameFactory.java
+    │       ├── observer/
+    │       │   ├── Observer.java
+    │       │   ├── Subject.java
+    │       │   ├── TeacherFrame.java
+    │       │   └── QuizFrame.java
+    │       ├── command/
+    │       │   ├── Command.java
+    │       │   ├── AddQuestionCommand.java
+    │       │   └── CommandInvoker.java
+    │       ├── builder/
+    │       │   └── CustomFrameBuilder.java
+    │       ├── template/
+    │       │   ├── LoginFrame.java
+    │       │   └── AdminFrame.java
+    │       ├── models/
+    │       │   ├── Question.java
+    │       │   └── QuestionBuilder.java
+    │       └── utils/ (اختياري)
+    │           └── أي كود مساعد يمكن إضافته لاحقًا.
