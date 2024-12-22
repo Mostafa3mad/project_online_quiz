@@ -1,7 +1,7 @@
 package com.mycompany.quiz_online1.observer;
 
-import com.mycompany.quiz_online1.models.Question;
-import com.mycompany.quiz_online1.models.QuestionBuilder;
+import com.mycompany.quiz_online1.builder.Question;
+import com.mycompany.quiz_online1.builder.QuestionBuilder;
 import com.mycompany.quiz_online1.singleton.DatabaseConnection;
 
 import javax.swing.*;
