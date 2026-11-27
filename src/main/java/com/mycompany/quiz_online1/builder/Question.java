@@ -1,4 +1,4 @@
-package com.mycompany.quiz_online1.models;
+package com.mycompany.quiz_online1.builder;
 
 public class Question {
     private String questionText;
